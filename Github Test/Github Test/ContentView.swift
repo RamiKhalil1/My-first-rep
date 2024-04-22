@@ -13,7 +13,8 @@ struct ContentView: View {
             Image(systemName: "app.badge")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Lets colab on github")
+            Text("Lets on github")
+            Text("New text")
         }
         .padding()
     }
